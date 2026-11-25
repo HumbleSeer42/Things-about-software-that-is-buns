@@ -12,7 +12,7 @@
 1. Browsers
 
 ## Rewrite in C
-Yes rewrite everything in C to combat r\*st slop
+Yes rewrite everything in C to combat r\*st slop(Javascript and PHP as well)
 
 ## Credits
 [Nagisa](https://github.com/nagisalyfe) and [Humble](https://github.com/HumbleSeer42) (C) 2026 MIT License
