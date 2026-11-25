@@ -11,7 +11,7 @@
 
 1. Browsers
 
-## REWRITE IN C
+## Rewrite in C
 Yes rewrite everything in C to combat r\*st slop
 
 ## Credits
