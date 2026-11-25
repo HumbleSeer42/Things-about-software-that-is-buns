@@ -1,17 +1,19 @@
-## Stuff that sucks in respects to computing:
+## Stuff that sucks buns(according to Nagisa)
 
 1. Operating Systems. (ALL OF THEM)
 2. Functional Programming. (R\*st, L\*sp)
-3. Browsers
-4. JAVASCRIPT (NOT JAVA)
-5. PHP
-6. C++
+3. J*vascript
+4. P*P
+5. *++
 
-## Stuff that doesn't suck (according to Nagisa):
+## Stuff that doesn't suck buns (according to Nagisa):
 
 1. Browsers
 
-## Stuff that doesn't suck (according to Humble):
+## Rewrite it in C
+Yes rewrite everything in C to combat r\*st slop (Javascript and P\*P as well)
+
+## Stuff that doesn't suck buns (according to Humble):
 
 1. C++
 2. Java
