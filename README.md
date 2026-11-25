@@ -12,3 +12,6 @@ software is buns, skill issue
 ## Stuff that doesn't suck (according to Nagisa):
 
 1. Browsers
+
+## Credits
+[Nagisa](https://github.com/nagisalyfe) and [Humble](https://github.com/HumbleSeer42) (C) 2026 MIT License
