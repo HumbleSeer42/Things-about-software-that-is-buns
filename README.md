@@ -10,15 +10,15 @@
 
 1. Browsers
 
-## Rewrite it in C
-Yes rewrite everything in C to combat r\*st slop (Javascript and P\*P as well).
-
-Reminder: R\*st is 🗑️!
-
 ## Stuff that doesn't suck buns (according to Humble):
 
 1. C++
 2. Java
+
+## Rewrite it in C
+Yes rewrite everything in C to combat r\*st slop (Javascript and P\*P as well).
+
+Reminder: R\*st is 🗑️!
 
 ## Credits
 [Nagisa](https://github.com/nagisalyfe) and [Humble](https://github.com/HumbleSeer42) (C) 2026 MIT License
