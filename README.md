@@ -16,7 +16,7 @@
 2. Java
 
 ## Rewrite it in C
-Yes rewrite everything in C to combat r\*st slop (Javascript and P\*P as well).
+Yes rewrite everything in C to combat r\*st slop (J\*vascript and P\*P as well).
 
 Reminder: R\*st is 🗑️!
 
