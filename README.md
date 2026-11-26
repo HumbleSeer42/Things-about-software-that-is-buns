@@ -1,4 +1,4 @@
-## Stuff that sucks buns(according to Nagisa)
+## Stuff that sucks buns (according to Nagisa)
 
 1. Operating Systems. (ALL OF THEM)
 2. Functional Programming. (R\*st, L\*sp)
@@ -11,7 +11,9 @@
 1. Browsers
 
 ## Rewrite it in C
-Yes rewrite everything in C to combat r\*st slop (Javascript and P\*P as well)
+Yes rewrite everything in C to combat r\*st slop (Javascript and P\*P as well).
+
+Reminder: R\*st is 🗑️!
 
 ## Stuff that doesn't suck buns (according to Humble):
 
