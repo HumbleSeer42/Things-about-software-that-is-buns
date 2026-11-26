@@ -18,10 +18,5 @@ Yes rewrite everything in C to combat r\*st slop (Javascript and P\*P as well)
 1. C++
 2. Java
 
-## Rewrite it in C
-Yes rewrite everything in C to combat r\*st slop (Javascript and P\*P as well)
-
-bc R*st is 🗑️!
-
 ## Credits
 [Nagisa](https://github.com/nagisalyfe) and [Humble](https://github.com/HumbleSeer42) (C) 2026 MIT License
